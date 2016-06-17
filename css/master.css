@@ -25,12 +25,16 @@ h2 {
   color: white;
   margin-bottom: 0;
   line-height: 1em;
+  margin-top: 60px;
   padding-left: 20px; }
 
 p {
   font-family: 'Rasa', serif;
   color: white;
   padding: 0 24px; }
+  p.intro::first-line {
+    font-variant: small-caps;
+    font-size: 1.2em; }
 
 .left-column {
   background: url("https://media.giphy.com/media/twAziIN9k5Ipa/giphy.gif");
