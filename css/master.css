@@ -1,0 +1,38 @@
+body {
+  background: yellow; }
+
+.wrapper {
+  max-width: 1000px;
+  margin: 20px auto;
+  background: red; }
+
+h1 {
+  color: DeepSkyBlue;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 10em;
+  line-height: 1.1em;
+  width: 1px;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  /* this is for displaying whitespaces including Firefox */
+  mix-blend-mode: multiply;
+  text-align: right;
+  margin: 0; }
+
+h2 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 20em;
+  color: white;
+  margin-bottom: 0;
+  line-height: 1em;
+  padding-left: 20px; }
+
+p {
+  font-family: 'Rasa', serif;
+  color: white;
+  padding: 0 24px; }
+
+.left-column {
+  background: url("https://media.giphy.com/media/twAziIN9k5Ipa/giphy.gif");
+  background-size: cover;
+  height: 100%; }
